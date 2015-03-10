@@ -1,0 +1,45 @@
+html {
+  font-size: 12pt;
+}
+
+body {
+  font-family: "Times New Roman", "Times", serif;
+}
+
+
+h1,h2,h3 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+nav {
+  display: none;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 900mm;
+  min-width: 300mm;
+  padding: 20mm;}
+
+header {
+  padding-bottom: 10mm;
+  position: relative;
+}
+
+
+article {
+  margin-bottom: 10mm;
+  position: relative;
+}
+
+article h3,
+article p {
+  margin: 0;
+  padding-left: 0;
+  padding-bottom: 2mm;
+}
+
+
+footer {
+  display: none;
+}
